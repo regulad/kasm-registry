@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Regulad\'s Registry',
+    description: 'Regulad\'s Favorite Kasm Workspaces.',
+    icon: 'https://www.gravatar.com/avatar/21efa640b1597e3778a2884009ae1b51?d=retro&r=g&s=200',
+    listUrl: 'https://www.regulad.xyz/kasm-registry/',
+    contactUrl: 'https://github.com/regulad/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
